@@ -23,18 +23,18 @@
     "icon": "https://icons.duckduckgo.com/ip3/osa.ncu.edu.tw.ico",
     "slug": "ncu-osa",
     "status": "down",
-    "uptime": "0.05%",
-    "uptimeDay": "0.05%",
-    "uptimeWeek": "0.05%",
-    "uptimeMonth": "0.05%",
-    "uptimeYear": "0.05%",
+    "uptime": "0.03%",
+    "uptimeDay": "0.03%",
+    "uptimeWeek": "0.03%",
+    "uptimeMonth": "0.03%",
+    "uptimeYear": "0.03%",
     "time": 0,
     "timeDay": 0,
     "timeWeek": 0,
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-25": 58
+      "2023-05-25": 61
     }
   },
   {
@@ -78,19 +78,19 @@
     "url": "140.115.16.220",
     "icon": "https://icons.duckduckgo.com/ip3/null.ico",
     "slug": "raspi",
-    "status": "down",
-    "uptime": "55.55%",
-    "uptimeDay": "55.55%",
-    "uptimeWeek": "55.55%",
-    "uptimeMonth": "55.55%",
-    "uptimeYear": "55.55%",
-    "time": 0,
-    "timeDay": 0,
-    "timeWeek": 0,
-    "timeMonth": 0,
-    "timeYear": 0,
+    "status": "up",
+    "uptime": "16.35%",
+    "uptimeDay": "16.35%",
+    "uptimeWeek": "16.35%",
+    "uptimeMonth": "16.35%",
+    "uptimeYear": "16.35%",
+    "time": 189,
+    "timeDay": 189,
+    "timeWeek": 189,
+    "timeMonth": 189,
+    "timeYear": 189,
     "dailyMinutesDown": {
-      "2023-05-25": 1
+      "2023-05-25": 4
     }
   }
 ]
