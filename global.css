@@ -215,5 +215,6 @@ article {
   display:flex !important;
   flex-direction: column-reverse !important;
   align-items: flex-end !important;
-  color: darkcyan !important;
+/*   color: darkcyan !important; */
+  mix-blend-mode:difference !important;
 }
