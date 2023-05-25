@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-25": 49
+      "2023-05-25": 57
     }
   },
   {
@@ -72,5 +72,25 @@
     "timeMonth": 1250,
     "timeYear": 1250,
     "dailyMinutesDown": {}
+  },
+  {
+    "name": "RASPI_自己偷架的樹莓派",
+    "url": "140.115.16.220",
+    "icon": "https://icons.duckduckgo.com/ip3/null.ico",
+    "slug": "raspi",
+    "status": "up",
+    "uptime": "93.92%",
+    "uptimeDay": "93.92%",
+    "uptimeWeek": "93.92%",
+    "uptimeMonth": "93.92%",
+    "uptimeYear": "93.92%",
+    "time": 0,
+    "timeDay": 0,
+    "timeWeek": 0,
+    "timeMonth": 0,
+    "timeYear": 0,
+    "dailyMinutesDown": {
+      "2023-05-25": 0
+    }
   }
 ]
