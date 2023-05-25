@@ -3,13 +3,13 @@ owner: NCU-2023-Linux-Term # Your GitHub organization or username, where this re
 repo: upptime # The name of this repository
 
 sites:
-  - name: 中央大學官網
+  - name: NCU_main_中央大學官網
     url: https://www.ncu.edu.tw/tw/
-  - name: 中央大學學務處
+  - name: NCU_OSA_中央大學學務處
     url: https://osa.ncu.edu.tw/
-  - name: 中央大學教務處
+  - name: NCU_ADM_中央大學教務處
     url: https://pdc.adm.ncu.edu.tw/
-  - name: 中央大學國際處
+  - name: NCU_OIA_中央大學國際處
     url: https://www.oia.ncu.edu.tw/index.php/tw/
 
 status-website:
