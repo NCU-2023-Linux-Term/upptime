@@ -12,9 +12,7 @@ sites:
   - name: NCU_OIA_中央大學國際處
     url: https://www.oia.ncu.edu.tw/index.php/tw/
   - name: RASPI_自己偷架的樹莓派
-    check: "tcp-ping"
-    url: 140.115.16.220
-    port: 80
+    url: http://140.115.16.220
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
