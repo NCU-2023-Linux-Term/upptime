@@ -217,4 +217,5 @@ article {
   align-items: flex-end !important;
 /*   color: darkcyan !important; */
   mix-blend-mode:difference !important;
+  flex-wrap: wrap;
 }
