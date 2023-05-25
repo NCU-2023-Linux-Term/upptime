@@ -102,7 +102,7 @@ section + h2 {
   justify-content: space-evenly;
 }
 .article>*{
-    mix-blend-mode:difference !important;
+    
  }
 dl {
   margin-bottom: 1.5rem;
@@ -212,4 +212,8 @@ article .graph {
 }
 article {
   background-size: cover !important;
+  display:flex !important;
+  flex-direction: column-reverse !important;
+  align-items: flex-end !important;
+  color: darkcyan !important;
 }
