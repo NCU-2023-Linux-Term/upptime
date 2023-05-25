@@ -102,7 +102,7 @@ section + h2 {
   justify-content: space-evenly;
 }
 .article>h4>a{
-    mix-blend-mode:difference;
+    mix-blend-mode:difference !important;
   }
 dl {
   margin-bottom: 1.5rem;
@@ -207,7 +207,7 @@ a.error-button {
 }
 
 article .graph {
-  background-size: cover;
+  background-size: cover !important;
   opacity: var(--graph-opacity);
   filter: var(--graph-filter);
 }
