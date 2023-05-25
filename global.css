@@ -94,7 +94,15 @@ section + h2 {
   margin-top: -0.2rem;
   margin-left: 0.5rem;
 }
-
+.live-status{
+  display:flex;
+  height: 20vh;
+  justify-content: space-evenly;
+}
+main{
+  width: 80vw;
+  
+}
 dl {
   margin-bottom: 1.5rem;
 }
