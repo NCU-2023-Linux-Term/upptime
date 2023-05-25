@@ -101,9 +101,9 @@ section + h2 {
   height: 20vh;
   justify-content: space-evenly;
 }
-.article>h4>a{
+.article>*{
     mix-blend-mode:difference !important;
-  }
+ }
 dl {
   margin-bottom: 1.5rem;
 }
@@ -207,7 +207,9 @@ a.error-button {
 }
 
 article .graph {
-  background-size: cover !important;
   opacity: var(--graph-opacity);
   filter: var(--graph-filter);
+}
+article {
+  background-size: cover !important;
 }
