@@ -96,6 +96,9 @@ section + h2 {
   margin-left: 0.5rem;
 }
 .live-status{
+  .article>h4>a{
+    mix-blend-mode:difference;
+  }
   display:flex;
   height: 20vh;
   justify-content: space-evenly;
@@ -204,6 +207,7 @@ a.error-button {
 }
 
 article .graph {
+  background-size: contain;
   opacity: var(--graph-opacity);
   filter: var(--graph-filter);
 }
