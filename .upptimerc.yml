@@ -3,14 +3,14 @@ owner: NCU-2023-Linux-Term # Your GitHub organization or username, where this re
 repo: upptime # The name of this repository
 
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Test Broken Site
-    url: https://thissitedoesnotexist.koj.co
+  - name: 中央大學官網
+    url: https://www.ncu.edu.tw/tw/
+  - name: 中央大學學務處
+    url: https://osa.ncu.edu.tw/
+  - name: 中央大學教務處
+    url: https://pdc.adm.ncu.edu.tw/
+  - name: 中央大學國際處
+    url: https://www.oia.ncu.edu.tw/index.php/tw/
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
