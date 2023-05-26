@@ -32,7 +32,7 @@ a {
 }
 
 .container {
-  width: 80vw;
+  max-width: 800px;
   margin: 0 auto;
   padding: 0 2rem;
   box-sizing: border-box;
@@ -72,7 +72,6 @@ article.degraded {
 }
 article.up {
   border-left: 0.2rem solid;
-  background-position: bottom;
 }
 
 .f {
@@ -95,15 +94,7 @@ section + h2 {
   margin-top: -0.2rem;
   margin-left: 0.5rem;
 }
-.live-status{
-  
-  display:flex;
-  height: 20vh;
-  justify-content: space-evenly;
-}
-.article>*{
-    
- }
+
 dl {
   margin-bottom: 1.5rem;
 }
@@ -209,19 +200,4 @@ a.error-button {
 article .graph {
   opacity: var(--graph-opacity);
   filter: var(--graph-filter);
-}
-article {
-  background-size: cover !important;
-/*   color: darkcyan !important; */
-/*   mix-blend-mode:difference !important; */
-  
-}
-.up, .down{
-  display:flex !important;
-  align-items: flex-end !important;
-  flex-wrap: wrap;
-  flex-direction: column-reverse !important;
-}
-.up{
-   color: darkcyan !important; 
 }
