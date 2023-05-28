@@ -11,7 +11,7 @@
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
     "time": 1721,
-    "timeDay": 1827,
+    "timeDay": 1934,
     "timeWeek": 1721,
     "timeMonth": 1721,
     "timeYear": 1721,
@@ -34,7 +34,7 @@
     "timeMonth": 0,
     "timeYear": 0,
     "dailyMinutesDown": {
-      "2023-05-28": 35,
+      "2023-05-28": 958,
       "2023-05-27": 1440,
       "2023-05-26": 1440,
       "2023-05-25": 765
@@ -45,18 +45,20 @@
     "url": "https://pdc.adm.ncu.edu.tw/",
     "icon": "https://icons.duckduckgo.com/ip3/pdc.adm.ncu.edu.tw.ico",
     "slug": "ncu-adm",
-    "status": "up",
-    "uptime": "100.00%",
-    "uptimeDay": "100.00%",
-    "uptimeWeek": "100.00%",
-    "uptimeMonth": "100.00%",
-    "uptimeYear": "100.00%",
+    "status": "down",
+    "uptime": "99.99%",
+    "uptimeDay": "99.97%",
+    "uptimeWeek": "99.99%",
+    "uptimeMonth": "99.99%",
+    "uptimeYear": "99.99%",
     "time": 1790,
     "timeDay": 1945,
     "timeWeek": 1790,
     "timeMonth": 1790,
     "timeYear": 1790,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-05-28": 0
+    }
   },
   {
     "name": "NCU_OIA_中央大學國際處",
