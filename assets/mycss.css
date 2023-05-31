@@ -10,7 +10,7 @@
     --down-background-color: #f49baa;
     --degraded-border-left-color: #d61537;
     --up-border-left-color: #387bc4;
-    --tag-color: #002b29;
+    --tag-color: #ffffff;
     --tag-up-background-color: #387bc4;
     --tag-down-background-color: #eb3b5a;
     --tag-degraded-background-color: #f7b731;
@@ -68,4 +68,9 @@
   section{
     height: fit-content !important;
   }
-  
+span.tag.up{
+    margin: 4px;
+}
+span.tag.down{
+    margin: 4px;
+}
