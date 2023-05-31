@@ -32,6 +32,10 @@
     background-position: bottom;
   }
   
+  .article.graph{
+    background-blend-mode: color-burn;
+  }
+
   .live-status{
   
     display:flex;
