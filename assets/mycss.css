@@ -58,9 +58,6 @@
     flex-wrap: wrap;
     flex-direction: column-reverse !important;
   }
-  .up{
-     color: darkcyan !important; 
-  }
   footer{
     display: none !important;
     
@@ -73,4 +70,7 @@ span.tag.up{
 }
 span.tag.down{
     margin: 4px;
+}
+.tag{
+    display:inline-block !important;
 }
