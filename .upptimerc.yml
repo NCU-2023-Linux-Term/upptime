@@ -25,12 +25,9 @@ status-website:
   navbar:
     - title: 各站狀況
       href: /
-    - title: 本站原始碼
+    - title: 肝苦網管們的結晶
       href: https://github.com/$OWNER/$REPO
-#   links:
-#     - rel: stylesheet
   themeUrl: https://cdn.statically.io/gh/NCU-2023-Linux-Term/upptime/73e2b13d/assets/mycss.css
-#   theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
