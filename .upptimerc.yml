@@ -27,7 +27,8 @@ status-website:
       href: /
     - title: 本站原始碼
       href: https://github.com/$OWNER/$REPO
-  themeUrl: https://ncu-2023-linux-term.github.io/upptime/mycss.css
+#   themeUrl: https://ncu-2023-linux-term.github.io/upptime/mycss.css
+  theme: mycss
 
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
