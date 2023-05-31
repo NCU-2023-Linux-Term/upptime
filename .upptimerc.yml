@@ -20,7 +20,7 @@ status-website:
   baseUrl: /upptime
   name: 可以放假嗎
   logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  introTitle: 肝苦工程師的日常
+  introTitle: 肝苦網管的日常
   introMessage: 這些網站是我們的勞工，但他們似乎很常罷工 QQ
   navbar:
     - title: 各站狀況
@@ -36,7 +36,7 @@ status-website:
 # See https://upptime.js.org/docs/configuration
 
 i18n:
-  activeIncidents: 阿北出事啦！
+  activeIncidents: 阿北出事啦！(╯°Д°)╯ ┻━┻
   allSystemsOperational: 回去繼續睡
   incidentReport: "事件 #$NUMBER 報告 →"
   activeIncidentSummary: Opened at $DATE with $POSTS posts
