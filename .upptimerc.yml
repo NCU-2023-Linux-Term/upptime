@@ -29,7 +29,7 @@ status-website:
       href: https://github.com/$OWNER/$REPO
 #   links:
 #     - rel: stylesheet
-  themeUrl: https://cdn.statically.io/gh/NCU-2023-Linux-Term/upptime/74245d82/assets/mycss.css
+  themeUrl: https://cdn.statically.io/gh/NCU-2023-Linux-Term/upptime/7704c874/assets/mycss.css
 #   theme: ocean
 
 # Upptime also supports notifications, assigning issues, and more
