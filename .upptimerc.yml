@@ -7,7 +7,7 @@ sites:
     url: https://www.ncu.edu.tw/tw/
   - name: NCU_OSA_中央大學學務處
     url: https://osa.ncu.edu.tw
-    method: HEAD
+    __dangerous__disable_verify_peer: true
   - name: NCU_ADM_中央大學教務處
     url: https://pdc.adm.ncu.edu.tw/
   - name: NCU_OIA_中央大學國際處
