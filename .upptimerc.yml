@@ -12,10 +12,6 @@ sites:
     url: https://pdc.adm.ncu.edu.tw/
   - name: NCU_OIA_中央大學國際處
     url: https://www.oia.ncu.edu.tw/index.php/tw/
-  - name: NCU_OSA_中央大學學務處_443
-    check: "tcp-ping"
-    url: www.osa.ncu.edu.tw
-    port: 443
   - name: RASPI_自己偷架的樹莓派
     url: http://140.115.16.220
 
