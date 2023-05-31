@@ -14,6 +14,8 @@ sites:
     url: https://www.oia.ncu.edu.tw/index.php/tw/
   - name: RASPI_自己偷架的樹莓派
     url: http://140.115.16.220
+  - name: BENC_家凱教授的網站
+    url: https://ncuedu.tw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
