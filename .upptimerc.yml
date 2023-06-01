@@ -18,6 +18,8 @@ sites:
     check: "tcp-ping"
     url: smtp.cc.ncu.edu.tw
     port: 587
+  - name: NCUEDU
+    url: https://ncuedu.tw
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
