@@ -23,11 +23,11 @@
     "icon": "https://icons.duckduckgo.com/ip3/osa.ncu.edu.tw.ico",
     "slug": "ncu-osa",
     "status": "up",
-    "uptime": "42.13%",
+    "uptime": "44.57%",
     "uptimeDay": "100.00%",
-    "uptimeWeek": "63.53%",
-    "uptimeMonth": "42.13%",
-    "uptimeYear": "42.13%",
+    "uptimeWeek": "70.18%",
+    "uptimeMonth": "44.57%",
+    "uptimeYear": "44.57%",
     "time": 2131,
     "timeDay": 7571,
     "timeWeek": 2131,
@@ -84,9 +84,9 @@
     "url": "http://140.115.16.220",
     "icon": "https://icons.duckduckgo.com/ip3/140.115.16.220.ico",
     "slug": "raspi",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -95,7 +95,9 @@
     "timeWeek": 447,
     "timeMonth": 458,
     "timeYear": 458,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2023-06-05": 0
+    }
   },
   {
     "name": "NCU_MAIL_中央大學郵件_送件",
